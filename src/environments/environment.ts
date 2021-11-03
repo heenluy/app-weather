@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiKey: '0242382b67dfe2f1080aed36e74ddb50',
+  apiKey: 'open weather map(your api key)',
 };
 
 /*
